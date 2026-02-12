@@ -1,12 +1,10 @@
 ---
 name: rapid-fire-roast
-description: Create a rapid-fire sequence of 5-10 consecutive insults with varying
-  attack angles, building momentum to a devastating conclusion. Generate complete
-  roast sets that overwhelm with speed, volume, a...
+description: Create a rapid-fire sequence of 5-10 consecutive insults with varying attack angles, building momentum to a devastating conclusion. Generate complete roast sets that overwhelm with speed, volume, a...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - absurdist
 - callbacks
